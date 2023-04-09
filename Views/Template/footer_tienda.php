@@ -163,7 +163,6 @@
 <script src="<?= media(); ?>tienda/vendor/animsition/js/animsition.min.js"></script>
 <!--===============================================================================================-->
 <!-- <script src="<?= media(); ?>tienda/vendor/bootstrap/js/popper.js"></script> -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.5/umd/popper.min.js" integrity="sha512-8cU710tp3iH9RniUh6fq5zJsGnjLzOWLWdZqBMLtqaoZUA6AWIE34lwMB3ipUNiTBP5jEZKY95SfbNnQ8cCKvA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="<?= media(); ?>tienda/vendor/bootstrap/js/bootstrap.min.js"></script>
 <!--===============================================================================================-->
 <script src="<?= media(); ?>tienda/vendor/select2/select2.min.js"></script>
