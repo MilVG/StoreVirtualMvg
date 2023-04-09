@@ -162,7 +162,7 @@
 <!--===============================================================================================-->
 <script src="<?= media(); ?>tienda/vendor/animsition/js/animsition.min.js"></script>
 <!--===============================================================================================-->
-<!-- <script src="<?= media(); ?>tienda/vendor/bootstrap/js/popper.js"></script> -->
+<script src="<?= media(); ?>tienda/vendor/bootstrap/js/popper.js"></script>
 <script src="<?= media(); ?>tienda/vendor/bootstrap/js/bootstrap.min.js"></script>
 <!--===============================================================================================-->
 <script src="<?= media(); ?>tienda/vendor/select2/select2.min.js"></script>
