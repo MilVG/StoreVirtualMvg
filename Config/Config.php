@@ -4,7 +4,7 @@
 
 	
 
-	const BASE_URL = "app-storemvg.herokuapp.com/";
+	const BASE_URL = "https://app-storemvg.herokuapp.com/";
 
 
 
