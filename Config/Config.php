@@ -4,7 +4,7 @@
 
 	
 
-	const BASE_URL = "https://store.arkadius.ga/";
+	const BASE_URL = "https://app-storemvg.herokuapp.com/";
 
 
 
@@ -12,17 +12,15 @@
 
 
 
-	date_default_timezone_set('America/Lima');
-
 	// Variables para la conexion de base de datos
 
-	const DB_HOST = "sql208.epizy.com";
+	const DB_HOST = "us-cdbr-east-06.cleardb.net";
 
-	const DB_NAME = "epiz_31443876_bd_store";
+	const DB_NAME = "heroku_3c997db97df0c1f";
 
-	const DB_USER = "epiz_31443876";
+	const DB_USER = "be2a7328e99cff";
 
-	const DB_PASSWORD = "QWErty789MarK";
+	const DB_PASSWORD = "7ef348ec";
 
 	const DB_CHARSET ="utf8";
 
