@@ -8,8 +8,8 @@ $arrProductos = $data['productos'];
 ?>
 <!-- Slider -->
 <section class="section-slide">
-	<div>
-		<label for="" class="form-label">hola estamos desde heroku</label>
+	<div class="form-group">
+		<label for="">hola estamos desde heroku</label>
 	</div>
 	<div class="wrap-slick1">
 		<div class="slick1">
