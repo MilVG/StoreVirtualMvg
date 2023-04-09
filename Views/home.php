@@ -9,11 +9,10 @@ $arrProductos = $data['productos'];
 <!-- Slider -->
 <section class="section-slide">
 	<div>
-		<h1>MILTON DE VULETA LA BARRIO</h1>
+		<label for="" class="form-label">hola estamos desde heroku</label>
 	</div>
 	<div class="wrap-slick1">
 		<div class="slick1">
-
 			<?php
 			for ($i = 0; $i < count($arrSlider); $i++) {
 				$ruta = $arrSlider[$i]['ruta'];
